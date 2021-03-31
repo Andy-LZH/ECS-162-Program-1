@@ -3,7 +3,7 @@ ECS 162 Program1 Meet-n-greet 27
 
 Discord Server: https://discord.gg/jZuVJ8HW
 
-## Group Member
+### Group Member
 Shivaang Kumar
 
 Louise Li
